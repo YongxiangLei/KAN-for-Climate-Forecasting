@@ -1,1 +1,1 @@
-# KAN-for-Climate-Forecasting
+# Temp2-KAN for Climate Temperature Prediction
